@@ -127,7 +127,7 @@ section#box-profile{
     height: 100%;
     background-size: 100%;
     background-repeat: no-repeat;
-    background-position: 0px -20px;
+    background-position: 0px 0px;
     border-radius: 300px;
 }
 
@@ -270,3 +270,4 @@ input{
         margin-left: 25px;
         font-size: 14px;
     }
+}
